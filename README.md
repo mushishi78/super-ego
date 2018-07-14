@@ -1,6 +1,6 @@
 # SuperEgo
 
-SuperEgo is a small wrapper around [Incremental DOM](https://google.github.io/incremental-dom). This just to give a slightly friendlier API, as Incremental DOM was design as a compile target, so the design favours efficiency over ease of typing. This wrapper is just meant to tip the balance in the other direction.
+SuperEgo is a small wrapper around [Incremental DOM](https://google.github.io/incremental-dom). This is just to provide a slightly friendlier API for direct usage. Incremental DOM was designed as a compile target, so the design favours efficiency over ease of typing. This wrapper is just meant to tip the balance in the other direction.
 
 ## Installation
 
