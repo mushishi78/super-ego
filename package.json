@@ -1,0 +1,26 @@
+{
+  "name": "super-ego",
+  "version": "1.0.0",
+  "description": "Small amount of sugar around Incremental DOM",
+  "main": "super-ego.js",
+  "scripts": {
+    "example:build": "browserify example/example.js -o example/example.output.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushishi78/super-ego.git"
+  },
+  "keywords": [
+    "Incremental DOM"
+  ],
+  "author": "Max White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushishi78/super-ego/issues"
+  },
+  "homepage": "https://github.com/mushishi78/super-ego#readme",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "incremental-dom": "^0.5.1"
+  }
+}
